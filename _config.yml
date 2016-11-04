@@ -17,18 +17,18 @@ baseurl: /curriculo/
 title: Kirmayr Tomaz's Resume
 name: Kirmayr Tomaz
 email: tomaz.kirmayr@gmail.com
-email_full: mailto:youremail@me.com
-website: github.io/kirmayrtomaz
-website_full: https://biomadeira.github.io/sustain
+email_full: mailto:tomaz.kirmayr@gmail.com
+website: kirmayztomaz.github.io
+website_full: https://kirmayrtomaz.github.io
 github: kirmayrtomaz
 twitter: kirmayrtomaz
-tel: +55 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
+tel: +55 92992134199
+tel_full: tel:+5592992134199
+google_maps: 'https://www.google.co.uk/maps/place/R.+69,+24+-+Cidade+Nova,+Manaus+-+AM,+69094-510,+Brazil/@-2.9928154,-59.9760799,17z/data=!3m1!4b1!4m5!3m4!1s0x926c18fc1d7fc5b1:0x6fc510e717b75622!8m2!3d-2.9928208!4d-59.9738912'
+address: Rua 69 casa 24
+postcode: 69097578
+city: Manaus
+country: Amazonas
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
